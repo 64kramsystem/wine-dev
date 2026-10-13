@@ -1,0 +1,7 @@
+AGENTS*.md
+!AGENTS.md
+
+# Local agent configuration; MCP templates live in HCREPO/reversing_template.SKIP.
+/.mcp.json
+/.codex/config.toml
+/.claude/settings.local.json
